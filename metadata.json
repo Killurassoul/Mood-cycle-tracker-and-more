@@ -1,0 +1,6 @@
+{
+  "name": "Mood - Santé & Bien-être Féminin",
+  "description": "Compagnon numérique complet, confidentiel et bienveillant pour la santé menstruelle, reproductive, intime et émotionnelle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
